@@ -106,3 +106,6 @@ Jobs were moved into the Review column to be checked by the team to assure every
 ![T9](docs/Trello/Trello_9.png)
 ![T10](docs/Trello/Trello_10.png)
 ![T11](docs/Trello/Trello_11.png)
+![T12](docs/Trello/Trello_12.png)
+![T13](docs/Trello/Trello_13.png)
+
